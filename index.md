@@ -71,7 +71,7 @@
 ## Tips
 - [software-testing-tips](https://stackify.com/software-testing-tips/)
 - [tips for web automation](https://hackernoon.com/guide-to-web-automation-889557804453)
-- [](https://www.altexsoft.com/blog/engineering/8-ways-to-improve-software-testing-through-planning-work-environment-automated-testing-and-reporting)
+- [how to improve automated testing and reporting](https://www.altexsoft.com/blog/engineering/8-ways-to-improve-software-testing-through-planning-work-environment-automated-testing-and-reporting)
 
 ## Tools
 - [Katalon Recorder - Selenium IDE alternative](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
