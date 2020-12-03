@@ -1,4 +1,4 @@
-# Things I found usefull
+# Things I found useful
 
 ## Usefull stuff for websites
 - [fonts.google.com](https://fonts.google.com)
