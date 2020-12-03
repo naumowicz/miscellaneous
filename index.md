@@ -1,37 +1,125 @@
-## Welcome to GitHub Pages
+# Things I found usefull
 
-You can use the [editor on GitHub](https://github.com/naumowicz/miscellaneous/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Usefull stuff for websites
+- [fonts.google.com](https://fonts.google.com)
+- [css-tricks.com](https://css-tricks.com)
+- [thecatapi.com](https://thecatapi.com)
+- [w3schools.com](https://w3schools.com)
+- [HTML5 UP - free responsive websites templates](https://html5up.net/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Making presentations
+- [Canva](https://canva.com)
+- [Haiku Deck](https://haikudeck.com)
+- [Visme](https://visme.co)
+- [Prezi](https://prezi.com/Prezi)
 
-### Markdown
+## Cheatsheets
+- [Cheatsheet for Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Biggest resource for cheat-sheets](http://www.cheat-sheets.org/)
+- [Devhints.io - TLDR for docummentation](https://devhints.io)
+- [mylearnings.net - Selenium, Testing Frameworks and few more](http://mylearnings.net)
+- [Quick Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
+- [real time regex creator](https://regex101.com/)
+- [short and colorful git cheat sheet](http://www.cheat-sheets.org/saved-copy/Git_Cheat_Sheet_grey.pdf)
+- [github git cheat sheet](http://www.cheat-sheets.org/saved-copy/github-git-cheat-sheet.pdf)
+- [another git cheat sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Just interesting
+- [Paged Out - Magazine about coding, hacking etc.](https://pagedout.institute/)
+- [A website "Where adults learn to read with free, illustrated, interactive books."](http://readtolearn.online)
+- [Website with product for: analysing commits into graphs, automated code review](https://codeclimate.com/)
+- [Blog of Backblaze, also quite cheap cloud storage](https://www.backblaze.com/blog/)
+- [List of projects that were killed by Google](https://killedbygoogle.com/)
+- [Intel website targeting code](https://software.intel.com/)
+- [Website with instructions how to tie shoelaces better and faster, also some IT info](https://www.fieggen.com/shoelace/index.htm)
 
-```markdown
-Syntax highlighted code block
+## How to eneter open source coding
+- [Twitter notifications](https://twitter.com/first_tmrs_only)
+- [Links - Github](https://github.com/MunGell/awesome-for-beginners)
+- [codetriage.com](https://www.codetriage.com/)
 
-# Header 1
-## Header 2
-### Header 3
+# PROGRAMMING
+## C++ resources
+- [learncpp.com - one of the best cpp resources for beginners](https://www.learncpp.com/)
+- [SFML - Simple and Fast Multimedia Library](https://www.sfml-dev.org/)
 
-- Bulleted
-- List
+## JavaScript
+- [JS the right way - things related to JS](https://jstherightway.org/)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-1. Numbered
-2. List
+## Plugins for Visual Studio Code
+- Bracket Pair Colorizer 2
+- ESLint
+- eslint-disable-snippets
+- Git Blane
+- Git Graph
+- Git History
+- Git Lens
+- JavaScript (ES6) code snippets
+- Live Server
+- Live Share
+- Node.js Moudles Intellisense
+- Prettier - Code formatter
+- Shell launcher
+- VS Code Counter
+- VSCode Great Icons
 
-**Bold** and _Italic_ and `Code` text
+## Scripting for Google Sheets
+- [zapier.com/learn/google-sheets](https://zapier.com/learn/google-sheets/google-apps-script-tutorial/)
 
-[Link](url) and ![Image](src)
-```
+# QUALITY ASSURANCE
+## Tips
+- [software-testing-tips](https://stackify.com/software-testing-tips/)
+- [tips for web automation](https://hackernoon.com/guide-to-web-automation-889557804453)
+- [](https://www.altexsoft.com/blog/engineering/8-ways-to-improve-software-testing-through-planning-work-environment-automated-testing-and-reporting)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Tools
+- [Katalon Recorder - Selenium IDE alternative](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
+- [WAVE Evalutaion Tools - Evaluate web accessibility](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl)
+- [Ranorex Selocity - Auto-generate selectors](https://chrome.google.com/webstore/detail/ranorex-selocity/ocgghcnnjekfpbmafindjmijdpopafoe)
 
-### Jekyll Themes
+## Desktop tools
+- [Katalon Studio](https://www.katalon.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naumowicz/miscellaneous/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## JS Test frameworks
+- [WebdriverIO - node.js test framework](https://webdriver.io/)
+- [Nightwatch.js](https://nightwatchjs.org/)
+- [Cypress](https://www.cypress.io/)
+- [Jest](https://jestjs.io/)
 
-### Support or Contact
+# Task management
+- [Kanbanflow](https://kanbanflow.com)
+- [Todoist](https://todoist.com)
+- [Trello](https://trello.com)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Lerning algorithms and coding by resolving tasks
+- [Codewars](https://www.codewars.com)
+- [SPOJ](https://www.spoj.com)
+
+# Recommended software
+- [7-Zip - best archiver, free and opensource](https://www.7-zip.org/)
+- [VLC media player](https://www.videolan.org/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [UltraSearch - extreamly quick file finder (NTFS)](https://www.jam-software.com/ultrasearch/)
+- [VeraCypt - open source disk encryption software for Windows, Mac OSX and Linux.](https://www.veracrypt.fr/en/Home.html)
+- [VirtualBox - software for virtualization operating systems](https://www.virtualbox.org/)
+- [Recuva - recovering lost files](https://www.ccleaner.com/recuva)
+- [Audacity](https://www.audacityteam.org/)
+- [WinCDEmu - the easiest way to mount an ISO](http://wincdemu.sysprogs.org/)
+- [HandBrake - video converter](https://handbrake.fr/)
+- [Format Factor - convert (media) everything to everything](http://www.pcfreetime.com/formatfactory/index.php?language=en)
+- [UltraISO - managing image file formats and burning them](https://www.ultraiso.com/)
+- [HWiNFO - hadware analysis](https://www.hwinfo.com/)
+- [CPU-Z - detailed info about CPU, memory, motherboard](https://www.cpuid.com/softwares/cpu-z.html)
+- [WinDirStat - creates map of disk usage](https://windirstat.net/)
+- [GitForWindows](https://gitforwindows.org)
+- [Hiren's BootCD - soft for solving problems related with computer](https://www.hirensbootcd.org/)
+
+# Android apps
+- Calculator++
+- Here WeGo
+- Screen Filter
+- rif is fun
+- Walli
+
+#TODO bash resources
