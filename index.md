@@ -32,6 +32,7 @@
 - [List of projects that were killed by Google](https://killedbygoogle.com/)
 - [Intel website targeting code](https://software.intel.com/)
 - [Website with instructions how to tie shoelaces better and faster, also some IT info](https://www.fieggen.com/shoelace/index.htm)
+- [help for choosing right license](https://creativecommons.org/choose/)
 
 ## How to enter open source coding
 - [Twitter notifications](https://twitter.com/first_tmrs_only)
@@ -77,6 +78,7 @@
 - [Katalon Recorder - Selenium IDE alternative](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
 - [WAVE Evalutaion Tools - Evaluate web accessibility](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl)
 - [Ranorex Selocity - Auto-generate selectors](https://chrome.google.com/webstore/detail/ranorex-selocity/ocgghcnnjekfpbmafindjmijdpopafoe)
+- [FireShot - page screenshots](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 
 ## Desktop tools
 - [Katalon Studio](https://www.katalon.com/)
@@ -121,5 +123,11 @@
 - Screen Filter
 - rif is fun
 - Walli
+
+# Chrome plugins
+- HTTPS Everywhere
+- uBlock Origin
+- Disconnect
+- Dark Reader
 
 #TODO bash resources
