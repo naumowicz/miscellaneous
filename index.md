@@ -1,6 +1,6 @@
 # Things I found useful
 
-## Usefull stuff for websites
+## Useful stuff for websites
 - [fonts.google.com](https://fonts.google.com)
 - [css-tricks.com](https://css-tricks.com)
 - [thecatapi.com](https://thecatapi.com)
