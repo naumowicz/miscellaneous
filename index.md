@@ -33,7 +33,7 @@
 - [Intel website targeting code](https://software.intel.com/)
 - [Website with instructions how to tie shoelaces better and faster, also some IT info](https://www.fieggen.com/shoelace/index.htm)
 
-## How to eneter open source coding
+## How to enter open source coding
 - [Twitter notifications](https://twitter.com/first_tmrs_only)
 - [Links - Github](https://github.com/MunGell/awesome-for-beginners)
 - [codetriage.com](https://www.codetriage.com/)
