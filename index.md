@@ -33,6 +33,8 @@
 - [Intel website targeting code](https://software.intel.com/)
 - [Website with instructions how to tie shoelaces better and faster, also some IT info](https://www.fieggen.com/shoelace/index.htm)
 - [help for choosing right license](https://creativecommons.org/choose/)
+- [Privacy.io - List of tools helping achiving privacy](https://www.privacytools.io/)
+- [Blog of Facebook](https://engineering.fb.com)
 
 ## How to enter open source coding
 - [Twitter notifications](https://twitter.com/first_tmrs_only)
@@ -123,6 +125,8 @@
 - Screen Filter
 - rif is fun
 - Walli
+- Todoist
+- DuckDuckGo
 
 # Chrome plugins
 - HTTPS Everywhere
